@@ -1,0 +1,22 @@
+.submit-btn{
+	padding: 16px 0;
+    cursor: pointer;
+    color: #FFF;
+    font-weight: bold;
+    border: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    width: 100%;
+    background: #21b75f; */
+    background: -moz-linear-gradient(left, #21b75f 0%, #31386e 100%);
+    /* background: -webkit-linear-gradient(left, #21b75f 0%,#31386e 100%); */
+    background: linear-gradient(to right, #21b75f 0%,#31386e 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#21b75f', endColorstr='#31386e',GradientType=1 );
+    /* outline: none; */
+}
+.bg-nero{
+    background: #0e385d!important;
+}
